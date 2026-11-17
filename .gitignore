@@ -1,0 +1,14 @@
+node_modules/
+client/node_modules/
+server/node_modules/
+client/dist/
+.env
+.env.*.local
+client/.env
+client/.env.local
+client/.env.*.local
+server/.env
+npm-debug.log*
+sources/
+AGENTS.md
+.vercel/
